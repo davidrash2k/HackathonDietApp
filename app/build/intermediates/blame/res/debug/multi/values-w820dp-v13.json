@@ -1,0 +1,40 @@
+[
+    {
+<<<<<<< HEAD
+        "outputFile": "/Users/Gela/Documents/Development/Hackathons/HackathonFoodApp/app/build/intermediates/res/merged/debug/values-w820dp-v13/values-w820dp-v13.xml",
+=======
+        "outputFile": "C:\\Users\\Zehcnas\\AndroidStudioProjects\\HackathonDietApp\\HackathonFoodApp\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
+>>>>>>> 4485f0c02a5315d3d6b9a5311da322a2ed646663
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "/Users/Gela/Documents/Development/Hackathons/HackathonFoodApp/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 57,
+                        "endOffset": 344
+=======
+                    "file": "C:\\Users\\Zehcnas\\AndroidStudioProjects\\HackathonDietApp\\HackathonFoodApp\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 57,
+                        "endOffset": 348
+>>>>>>> 4485f0c02a5315d3d6b9a5311da322a2ed646663
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+<<<<<<< HEAD
+        "merged": "/Users/Gela/Documents/Development/Hackathons/HackathonFoodApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/Gela/Documents/Development/Hackathons/HackathonFoodApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+=======
+        "merged": "C:\\Users\\Zehcnas\\AndroidStudioProjects\\HackathonDietApp\\HackathonFoodApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Zehcnas\\AndroidStudioProjects\\HackathonDietApp\\HackathonFoodApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+>>>>>>> 4485f0c02a5315d3d6b9a5311da322a2ed646663
+    }
+]
